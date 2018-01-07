@@ -110,11 +110,11 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
+    date: "Jul 2017 - Today"
     description: "E-Marketing&Innovation Intern @<a href=\"http://www.roche.com.tr\" target=\"_blank\">Roche</a>"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Mar 2017 - Jun 2017"
+    description: "Business Analyst Intern @<a href=\"http://www.garantiteknoloji.com.tr\" target=\"_blank\">Garanti Technology</a>"
 
 # First image of the Timeline
 
