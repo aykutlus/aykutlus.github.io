@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/worldmap.img"
+background-img: "../img/worldmap.jpg"
 
 ##############################
 # Dynamic Text on the Header #
