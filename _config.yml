@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The secret of happiness is freedom, the secret of freedom is courage!
   - text: "No pongas limitos a tus sueños."
   - text: "Follow your dreams!"
+  - text: "The secret of happiness is freedom, the secret of freedom is courage!"
 
 me-img: "/img/seda.JPG"
 
