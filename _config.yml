@@ -55,6 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
+  - text: "Try and fail, but never fail to try."
   - text: "No pongas limitos a tus sueños."
   - text: "Follow your dreams!"
   - text: "The secret of happiness is freedom, the secret of freedom is courage!"
@@ -102,30 +103,6 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
-########
-# Blog #
-########
-
-enable-gesture-navigation: True
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
-
-disqus-shortname: "panossakkos"
-
-syntax-highlight: True
 
 ############
 # Timeline #
@@ -147,18 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
-
-################
-# Author Blurb #
-################
-
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
-
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "Quick learner, challenge seeker, self-motivated and result-oriented fresh graduate with a background in Management Engineering. Aiming to enhance my professional skills in a dynamic workplace."
-author_blurb_image: "/img/author.png"
+email: "sedaaykutlu@gmail.com"
 
 ##################
 # Social Buttons #
@@ -198,7 +164,6 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
