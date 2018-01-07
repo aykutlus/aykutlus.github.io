@@ -109,7 +109,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/roche.jpg"
     date: "Jul 2017 - Today"
     description: "E-Marketing&Innovation Intern @<a href=\"http://www.roche.com.tr\" target=\"_blank\">Roche</a>"
   - image: "/img/timeline/baracktocat.jpg"
