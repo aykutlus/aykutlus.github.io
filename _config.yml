@@ -1,4 +1,4 @@
-
+g
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/world.png"
+background-img: "../img/banner.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -157,7 +157,8 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Quick learner, challenge seeker, self-motivated and result-oriented fresh graduate with a background in
+Management Engineering. Aiming to enhance my professional skills in a dynamic workplace."
 author_blurb_image: "/img/author.png"
 
 ##################
