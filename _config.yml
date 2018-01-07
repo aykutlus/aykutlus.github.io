@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Try and fail, but never fail to try."
-  - text: "No pongas limitos a tus sueños."
+  - text: "No pongas limites a tus sueños."
   - text: "Follow your dreams!"
   - text: "The secret of happiness is freedom, the secret of freedom is courage!"
 
@@ -112,9 +112,12 @@ events:
   - image: "/img/timeline/roche.jpg"
     date: "Jul 2017 - Today"
     description: "E-Marketing&Innovation Intern @<a href=\"http://www.roche.com.tr\" target=\"_blank\">Roche</a>"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/254.jpg"
     date: "Mar 2017 - Jun 2017"
     description: "Business Analyst Intern @<a href=\"http://www.garantiteknoloji.com.tr\" target=\"_blank\">Garanti Technology</a>"
+  - image: "/img/timeline/roche.jpg"
+    date: "Jan 2017 - March 2017"
+    description: "Teaching Assistant @<a href=\"http://www.aiesec.org.es\" target=\"_blank\">Aiesec Spain</a>"
 
 # First image of the Timeline
 
