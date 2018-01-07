@@ -1,4 +1,4 @@
-g
+
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -12,7 +12,7 @@ url: "https://aykutlus.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /
+baseurl: ""
 
 # Google tracking id
 
