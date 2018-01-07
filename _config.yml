@@ -157,8 +157,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Quick learner, challenge seeker, self-motivated and result-oriented fresh graduate with a background in
-Management Engineering. Aiming to enhance my professional skills in a dynamic workplace."
+author_blurb: "Quick learner, challenge seeker, self-motivated and result-oriented fresh graduate with a background in Management Engineering. Aiming to enhance my professional skills in a dynamic workplace."
 author_blurb_image: "/img/author.png"
 
 ##################
