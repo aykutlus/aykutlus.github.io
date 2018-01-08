@@ -110,10 +110,10 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  - image: "/img/timeline/roche.jpg"
+  - image: "/img/timeline/roche3.jpg"
     date: "Jul 2017 - Today"
     description: "E-Marketing&Innovation Intern @<a href=\"http://www.roche.com.tr\" target=\"_blank\">Roche</a>"
-  - image: "/img/timeline/254.jpg"
+  - image: "/img/timeline/garantit.jpg"
     date: "Mar 2017 - Jun 2017"
     description: "Business Analyst Intern @<a href=\"http://www.garantiteknoloji.com.tr\" target=\"_blank\">Garanti Technology</a>"
   - image: "/img/timeline/A.jpg"
