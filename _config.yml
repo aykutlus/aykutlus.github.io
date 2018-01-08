@@ -106,7 +106,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 
 ############
-# Timeline #
+# Experiences #
 ############
 
 events:
@@ -168,7 +168,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Timeline: 'timeline'
+  Timeline: 'experiences'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
