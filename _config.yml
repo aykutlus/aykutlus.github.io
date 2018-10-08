@@ -55,11 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Try and fail, but never fail to try."
   - text: "No pongas limites a tus sueños."
-  - text: "Follow your dreams!"
-  - text: "¿Por que no?"
-  - text: "The secret of happiness is freedom, the secret of freedom is courage!"
+  - text: "If you never try, you will never know!"
+  - text: "¿Porque no?"
+  - text: "Let your dreams be bigger than your fears,and your actions louder than your words!"
 
 me-img: "/img/seda.JPG"
 
