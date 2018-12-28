@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "¿Porque no?"
   - text: "Let your dreams be bigger than your fears,and your actions louder than your words!"
 
-me-img: "/img/seda.JPG"
+me-img: "/img/seda.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
