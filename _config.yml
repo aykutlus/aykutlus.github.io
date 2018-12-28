@@ -16,9 +16,7 @@ baseurl: ""
 
 # Google tracking id
 
-google-tracking-id: 
-"
-<!-- Global site tag (gtag.js) - Google Analytics -->
+google-tracking-id: "<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131431809-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -26,9 +24,7 @@ google-tracking-id:
   gtag('js', new Date());
 
   gtag('config', 'UA-131431809-1');
-</script>
-
-"
+</script>"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
