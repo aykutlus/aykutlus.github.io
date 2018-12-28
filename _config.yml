@@ -109,7 +109,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  - image: "/img/timeline/loreal.jpg"
+  - image: "/img/timeline/loreal.png"
     date: "Mar'17 - Sep'17"
     description: "Master Data Specialist @<a href=\"https://www.loreal.com\" target=\"_blank\">L'oreal</a>"
   - image: "/img/timeline/garantit.jpg"
